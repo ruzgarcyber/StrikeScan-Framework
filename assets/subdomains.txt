@@ -1,0 +1,15 @@
+www
+mail
+ftp
+test
+dev
+api
+staging
+admin
+panel
+shop
+blog
+cdn
+assets
+img
+cloud

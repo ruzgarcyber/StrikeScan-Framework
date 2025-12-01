@@ -1,0 +1,15 @@
+{
+    "Apache_Path_Traveral": {
+        "pattern": "Apache\\/2\\.4\\.49",
+        "vulnerability": "CVE-2021-41773 - Path Traversal"
+    },
+    "OpenSSH_7_2": {
+        "pattern": "OpenSSH[_ ]7\\.2",
+        "vulnerability": "CVE-2016-10009 - Privilege Escalation"
+    },
+    "vsftpd_backdoor": {
+        "pattern": "vsFTPd 2\\.3\\.4",
+        "vulnerability": "Backdoored Version (2011 Trojan)"
+    }
+}
+
